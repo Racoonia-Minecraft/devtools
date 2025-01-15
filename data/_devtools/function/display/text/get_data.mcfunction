@@ -1,4 +1,3 @@
-#declare storage racoonia:devtools
 
 # General settings
 data modify storage racoonia:devtools display.text.flat.view_range set from entity @s view_range

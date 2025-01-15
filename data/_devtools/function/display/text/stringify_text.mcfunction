@@ -1,9 +1,3 @@
-#declare storage racoonia:devtools
-#declare entity #bold
-#declare entity #italic
-#declare entity #underlined
-#declare entity #strikethrough
-#declare entity #obfuscated
 
 execute store result score #bold devtools.data run data get storage racoonia:devtools display.text.text_object.bold
 execute store result score #italic devtools.data run data get storage racoonia:devtools display.text.text_object.italic
